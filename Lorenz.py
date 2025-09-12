@@ -62,6 +62,7 @@ def animacion(frame):
     return lorenz_plt,
 
 animation = FuncAnimation(fig, animacion, frames=range(0,len(x),5), interval=5, blit=False)
-
+# Guardar la animación como GIF
+animation.save('lorenz_attractor.gif', writer=PillowWriter(fps=20))
 plt.title('Atractor de Lorenz')
 plt.show()
