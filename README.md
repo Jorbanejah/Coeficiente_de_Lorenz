@@ -1,0 +1,1 @@
+# Coeficiente_de_Lorenz
