@@ -2,6 +2,16 @@
 
 <p>Este proyecto está dedicado al estudio del <strong>sistema de Lorenz</strong>, un modelo clásico en dinámica no lineal que exhibe comportamiento caótico. El objetivo principal es analizar cómo pequeñas variaciones en las condiciones iniciales afectan la evolución del sistema, y calcular el <strong>coeficiente de Lyapunov</strong>, que mide la sensibilidad al caos.</p>
 
+<h2>🎥 Animación del Atractor de Lorenz</h2>
+<p>Visualización del comportamiento caótico del sistema de Lorenz:</p>
+
+<div style="float: left; margin-right: 20px;">
+  <img src="lorenz_attractor.gif" alt="Animación del atractor de Lorenz" width="400">
+</div>
+
+<p>Esta animación muestra cómo las trayectorias del sistema de Lorenz evolucionan en el espacio tridimensional, revelando su naturaleza caótica y sensible a las condiciones iniciales.</p>
+
+
 <h2>📁 Estructura del repositorio</h2>
 
 <ul>
